@@ -180,8 +180,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@YOUR_USERNAME](https://github.com/Pratikd1109)
-- LinkedIn: [Your Profile](https://linkedin.com/in/pratikdhaktode)
+- GitHub: [Pratikd1109](https://github.com/Pratikd1109)
+- LinkedIn: [Pratikdhaktode](https://linkedin.com/in/pratikdhaktode)
 
 ## 🙏 Acknowledgments
 
