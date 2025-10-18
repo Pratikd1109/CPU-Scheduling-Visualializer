@@ -108,8 +108,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@YOUR_USERNAME](https://github.com/Pratikd1109)
+- LinkedIn: [Your Profile](https://linkedin.com/in/pratikdhaktode)
 
 ## 🙏 Acknowledgments
 
@@ -119,7 +119,7 @@ Your Name
 
 ## 📧 Contact
 
-For any queries, reach out at: your.email@example.com
+For any queries, reach out at: pratikd1707@gmail.com
 
 ---
 
